@@ -1,0 +1,4 @@
+--recursive
+--require ts-node/register
+--require chai/register-assert
+src/test/**/*.spec.ts
